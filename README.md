@@ -1,4 +1,4 @@
-# greetings-earthlings
+# greetings earthlings
 
 An earthling's guide to all things good in the galaxy and beyond.
 
